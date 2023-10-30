@@ -1,6 +1,0 @@
-ferritin_wider <- read.csv('~/Documents/clsi-package/data/ferritin_clsi.csv')
-
-ferritin_long <- read.csv('~/Documents/clsi-package/data/ferritin_clsi_longer.csv')
-
-
-usethis::use_data(ferritin_long)
